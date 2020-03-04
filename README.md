@@ -6,7 +6,7 @@ Note that this repo is based on https://github.com/syang1993/gst-tacotron
 
 ## Background
 
-In March 2018, Google published a paper, [Style Tokens: Unsupervised Style Modeling, Control and Transfer inEnd-to-End Speech Synthesis],
+In March 2018, Google published a paper, [Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron],
 where they present a neural text-to-speech model that learns to synthesize speech directly from
 (text, audio) pairs. However, they didn't release their source code or training data. This is an
 independent attempt to provide an open-source implementation of the model described in their paper.
