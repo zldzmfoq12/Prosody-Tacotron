@@ -7,6 +7,8 @@ from synthesizer import Synthesizer
 from util import audio
 
 sentences = [
+    '저번에 방수 했단 말야 근데 지금 또 그러는거야',
+    '나도 자판기 하느라 얼마나 고생했는지 아냐',
     '피곤해서 쉬고 싶다더니 신나게 얘기하고 있네.',
     '고고와 미미는 열심히 헤엄져 고래 할아버지에게 갔어.',
     '고고 내 힘으로는 빨대를 꺼내지 못할 것 같아.',
